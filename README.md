@@ -1,0 +1,1 @@
+This is clone of the Tesla home page. This is fully responsive built using Bootstrap.
